@@ -201,4 +201,3 @@ Switch between List, Board, Timeline, or Calendar view depending on how your tea
 - 👥 Managing team members & permissions
 - 📁 Storage limits & file management
 - 📅 Upgrading, downgrading, or canceling a plan
-  a
