@@ -108,27 +108,27 @@ Annual billing saves up to 20% on all plans.
 
 ## 🚀 Getting Started / Onboarding
 
-### Step 1 – Sign Up
+### Step 1 - Sign Up
 
 Go to flowdesk.io and create your account. You can sign up with email, Google, or Microsoft SSO.
 
-### Step 2 – Create Your First Workspace
+### Step 2 - Create Your First Workspace
 
 A workspace holds all your projects and team members. Name it after your company or team.
 
-### Step 3 – Invite Your Team
+### Step 3 - Invite Your Team
 
 Go to Settings → Members → Invite by email. Team members will receive an invite link valid for 48 hours.
 
-### Step 4 – Create a Project
+### Step 4 - Create a Project
 
 Choose a template (Agile Sprint, Marketing Campaign, Product Roadmap, etc.) or start from scratch.
 
-### Step 5 – Add Tasks & Assign Owners
+### Step 5 - Add Tasks & Assign Owners
 
 Break your project into tasks, set due dates, assign team members, and choose a priority level.
 
-### Step 6 – Pick Your View
+### Step 6 - Pick Your View
 
 Switch between List, Board, Timeline, or Calendar view depending on how your team works best.
 
